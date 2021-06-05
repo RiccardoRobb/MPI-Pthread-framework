@@ -1,0 +1,13 @@
+
+Utilizzo makefile
+
+Compilazione:	
+- make
+
+Esecuzione:
+- make run (il codice viene runnato con 4 processi)
+- make run N=numero di processi con cui eseguire
+
+Rimozione eseguibile:	
+- make clean
+
